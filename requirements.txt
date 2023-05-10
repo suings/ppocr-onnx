@@ -1,6 +1,6 @@
 onnxruntime
 numpy
-opencv-python
+opencv-python-headless<=4.6
 shapely
 pyclipper
 pillow
